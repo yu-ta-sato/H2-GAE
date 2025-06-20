@@ -45,5 +45,5 @@ Hierarchical & Heterogeneous Graph Autoencoder (H2-GAE)
 
 ```
 uv sync --dev
-uv run ipython kernel install --user --env VIRTUAL_ENV $(pwd)/.venv --name=H2-GAE
+uv run ipython kernel install --user --env VIRTUAL_ENV $(pwd)/.venv --name=project
 ```
